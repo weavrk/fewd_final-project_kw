@@ -142,7 +142,7 @@ ScrollTrigger.create({
 ScrollTrigger.create({
   trigger: "#navbarTrigger",
   start: "top -45px", 
-  end: "+=5000px",
+  end: "+=2800px",
   markers: false,
   pin: "#desktopPin",
   pinSpace: false,

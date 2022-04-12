@@ -447,11 +447,110 @@ margin-bottom: 30px;
 	/* border-radius: 5px;	 */
 	box-shadow: 0px 1px 5px 1px rgb(171, 171, 171);
 	background-size: cover;
+  background-position: center;
 }
 
 .project_rs_01{
-	background-image: url("/images/thumbnails/thumbnail_05.jpg");
+	background-image: url("/images/thumbnails/thumbnails_mobile/rs-01.jpg");
 }
+.project_rs_02{
+	background-image: url("/images/thumbnails/thumbnails_mobile/rs-02.jpg");
+}
+.project_rs_03{
+	background-image: url("/images/thumbnails/thumbnails_mobile/rs-03.jpg");
+}
+.project_rs_04{
+	background-image: url("/images/thumbnails/thumbnails_mobile/rs-04.jpg");
+}
+.project_rs_05{
+	background-image: url("/images/thumbnails/thumbnails_mobile/rs-05.jpg");
+}
+.project_rs_06{
+	background-image: url("/images/thumbnails/thumbnails_mobile/rs-06.jpg");
+}
+
+
+.project_ed_01{
+	background-image: url("/images/thumbnails/thumbnails_mobile/ed-01.jpg");
+}
+.project_ed_02{
+	background-image: url("/images/thumbnails/thumbnails_mobile/ed-02.jpg");
+}
+.project_ed_03{
+	background-image: url("/images/thumbnails/thumbnails_mobile/ed-03.jpg");
+}
+.project_ed_04{
+	background-image: url("/images/thumbnails/thumbnails_mobile/ed-04.jpg");
+}
+.project_ed_05{
+	background-image: url("/images/thumbnails/thumbnails_mobile/ed-05.jpg");
+}
+
+.project_d_01{
+	background-image: url("/images/thumbnails/thumbnails_mobile/d-01.jpg");
+}
+.project_d_02{
+	background-image: url("/images/thumbnails/thumbnails_mobile/d-02.jpg");
+}
+.project_d_03{
+	background-image: url("/images/thumbnails/thumbnails_mobile/d-03.jpg");
+}
+.project_d_04{
+	background-image: url("/images/thumbnails/thumbnails_mobile/d-04.jpg");
+}
+.project_d_05{
+	background-image: url("/images/thumbnails/thumbnails_mobile/d-05.jpg");
+}
+
+.project_vm_01{
+	background-image: url("/images/thumbnails/thumbnails_mobile/vm-01.jpg");
+}
+.project_vm_02{
+	background-image: url("/images/thumbnails/thumbnails_mobile/vm-02.jpg");
+}
+.project_vm_03{
+	background-image: url("/images/thumbnails/thumbnails_mobile/vm-03.jpg");
+}
+.project_vm_04{
+	background-image: url("/images/thumbnails/thumbnails_mobile/vm-04.jpg");
+}
+.project_vm_05{
+	background-image: url("/images/thumbnails/thumbnails_mobile/vm-05.jpg");
+}
+
+.project_sd_01{
+	background-image: url("/images/thumbnails/thumbnails_mobile/sd-01.jpg");
+}
+.project_sd_02{
+	background-image: url("/images/thumbnails/thumbnails_mobile/sd-02.jpg");
+}
+.project_sd_03{
+	background-image: url("/images/thumbnails/thumbnails_mobile/sd-03.jpg");
+}
+
+.project_a_01{
+	background-image: url("/images/thumbnails/thumbnails_mobile/a-01.jpg");
+}
+.project_a_02{
+	background-image: url("/images/thumbnails/thumbnails_mobile/a-02.jpg");
+}
+.project_a_03{
+	background-image: url("/images/thumbnails/thumbnails_mobile/a-03.jpg");
+}
+.project_a_04{
+	background-image: url("/images/thumbnails/thumbnails_mobile/a-04.jpg");
+}
+.project_a_05{
+	background-image: url("/images/thumbnails/thumbnails_mobile/a-05.jpg");
+}
+.project_a_06{
+	background-image: url("/images/thumbnails/thumbnails_mobile/a-06.jpg");
+}
+
+
+
+
+
 
 
 /* footer */
@@ -538,7 +637,7 @@ margin-bottom: 30px;
   line-height: 1.1;
   text-decoration: none;
   font-weight: 300;
-  margin-bottom: 10px;
+  margin-bottom: 15px;
   color: #323535;
 }
 .footer_projectheader{
@@ -764,6 +863,10 @@ margin-bottom: 30px;
   grid-column: span 3;
   grid-row: span 5;
 }
+.four_one{
+  grid-column: span 4;
+  grid-row: span 1;
+}
 .four_three{
   grid-column: span 4;
   grid-row: span 3;
@@ -810,8 +913,8 @@ margin-bottom: 30px;
   opacity: .90;
   cursor: pointer;
 }
-.a1{
-  background-image: url("");
+.a01{
+  background-image: url("/images/thumbnails/thumbnails_desktop/desktop_thumbnail_a01_vertical.jpg");
 }
 .a02{
   background-image: url("/images/thumbnails/thumbnails_desktop/desktop_thumbnail_a02_medium.jpg");
@@ -825,8 +928,14 @@ margin-bottom: 30px;
 .a05{
   background-image: url("/images/thumbnails/thumbnails_desktop/desktop_thumbnail_a05_small.jpg");
 }
+.a06{
+  background-image: url("/images/thumbnails/thumbnails_desktop/desktop_thumbnail_a06_vertical.jpg");
+}
 .a07{
   background-image: url("/images/thumbnails/thumbnails_desktop/desktop_thumbnail_a07_medium.jpg");
+}
+.a08{
+  background-image: url("/images/thumbnails/thumbnails_desktop/desktop_thumbnail_a08_small.jpg");
 }
 
 .a09{
@@ -841,7 +950,7 @@ margin-bottom: 30px;
 }
 .a13{
   background-image: url("/images/thumbnails/thumbnails_desktop/desktop_thumbnail_a13_medium.jpg");
-  background-position: right;
+  background-position: 80% 50%;
 }
 .a14{
   background-image: url("/images/thumbnails/thumbnails_desktop/desktop_thumbnail_a14_medium.jpg");
@@ -849,14 +958,41 @@ margin-bottom: 30px;
 .a15{
   background-image: url("/images/thumbnails/thumbnails_desktop/desktop_thumbnail_a15_mediumjpg.jpg");
 }
+.a16{
+  background-image: url("/images/thumbnails/thumbnails_desktop/desktop_thumbnail_a16_vertical.jpg");
+}
 .a17{
   background-image: url("/images/thumbnails/thumbnails_desktop/desktop_thumbnail_a17_large.jpg");
+}
+.a18{
+  background-image: url("/images/thumbnails/thumbnails_desktop/desktop_thumbnail_a18_large.jpg");
+}
+.a22{
+  background-image: url("/images/thumbnails/thumbnails_desktop/desktop_thumbnail_a22_medium.jpg");
 }
 .a23{
   background-image: url("/images/thumbnails/thumbnails_desktop/desktop_thumbnail_a23_medium.jpg");
 }
+.a24{
+  background-image: url("/images/thumbnails/thumbnails_desktop/desktop_thumbnail_a24_medium.jpg");
+}
+.a25{
+  background-image: url("/images/thumbnails/thumbnails_desktop/desktop_thumbnail_a25_vertical.jpg");
+}
+.a26{
+  background-image: url("/images/thumbnails/thumbnails_desktop/desktop_thumbnail_a26_vertical.jpg");
+}
+.a27{
+  background-image: url("/images/thumbnails/thumbnails_desktop/desktop_thumbnail_a27_vertical.jpg");
+}
 .a28{
   background-image: url("/images/thumbnails/thumbnails_desktop/desktop_thumbnail_a28_medium.jpg");
+}
+.a29{
+  background-image: url("/images/thumbnails/thumbnails_desktop/desktop_thumbnail_a29_small.jpg");
+}
+.a30{
+  background-image: url("/images/thumbnails/thumbnails_desktop/desktop_thumbnail_a30_small.jpg");
 }
 .a31{
   background-image: url("/images/thumbnails/thumbnails_desktop/desktop_thumbnail_a31_large.jpg");
@@ -864,15 +1000,56 @@ margin-bottom: 30px;
 .a32{
   background-image: url("/images/thumbnails/thumbnails_desktop/desktop_thumbnail_a32_medium.jpg");
 }
+.a33{
+  background-image: url("/images/thumbnails/thumbnails_desktop/desktop_thumbnail_a33_medium.jpg");
+}
+.a34{
+  background-image: url("/images/thumbnails/thumbnails_desktop/desktop_thumbnail_a34_medium.jpg");
+}
+.a35{
+  background-image: url("/images/thumbnails/thumbnails_desktop/desktop_thumbnail_a35_small.jpg");
+}
+.a36{
+  background-image: url("/images/thumbnails/thumbnails_desktop/desktop_thumbnail_a36_medium.jpg");
+}
+.a37{
+  background-image: url("/images/thumbnails/thumbnails_desktop/desktop_thumbnail_a37_large.jpg");
+}
+.a38{
+  background-image: url("/images/thumbnails/thumbnails_desktop/desktop_thumbnail_a38_vertical.jpg");
+}
+.a39{
+  background-image: url("/images/thumbnails/thumbnails_desktop/desktop_thumbnail_a39_mediumjpg.jpg");
+}
+.a40{
+  background-image: url("/images/thumbnails/thumbnails_desktop/desktop_thumbnail_a40_mediumjpg.jpg");
+}
+.a41{
+  background-image: url("/images/thumbnails/thumbnails_desktop/desktop_thumbnail_a41_small.jpg");
+}
 .a42{
   background-image: url("/images/thumbnails/thumbnails_desktop/desktop_thumbnail_a42_medium.jpg");
 }
+.a44{
+  background-image: url("/images/thumbnails/thumbnails_desktop/desktop_thumbnail_a44_small.jpg");
+}
+.a45{
+  background-image: url("/images/thumbnails/thumbnails_desktop/desktop_thumbnail_a45_vertical.jpg");
+}
 .a46{
   background-image: url("/images/thumbnails/thumbnails_desktop/desktop_thumbnail_a46_large.jpg");
+  background-size: contain;
+}
+.a47{
+  background-image: url("/images/thumbnails/thumbnails_desktop/desktop_thumbnail_a47_medium.jpg");
 }
 .a48{
   background-image: url("/images/thumbnails/thumbnails_desktop/desktop_thumbnail_a48_large.jpg");
 }
+.a49{
+  background-image: url("/images/thumbnails/thumbnails_desktop/desktop_thumbnail_a49_medium.jpg");
+}
+
 
 
 
@@ -1189,7 +1366,7 @@ main {
   display: block;
 }
 .footer_content {
-  bottom: 200px;
+  bottom: 45px;
   padding: 0px 5vw;
 }
 .footer_navigation {
@@ -1361,7 +1538,7 @@ main {
     grid-auto-rows: minmax(150px,1fr);
   }
   .footer_content {
-    bottom: 25vh;
+    bottom: 150px;
     padding: 0px 5vw;
   }
 }
